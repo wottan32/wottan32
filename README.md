@@ -36,11 +36,3 @@ I turn messy, manual processes into systems that run by themselves — data pipe
 📄 **[Full portfolio + downloadable CV → wottan32.github.io](https://wottan32.github.io)**
 
 [LinkedIn](https://linkedin.com/in/mario-torres-lagos) · mariotorreslagos@gmail.com
-
----
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wottan32&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=prs,issues&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wottan32&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
