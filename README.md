@@ -9,7 +9,7 @@ I turn messy, manual processes into systems that run by themselves — data pipe
 **What I've shipped in production**
 
 - 🗂️ Python CLI (Typer) processing survey data across **5 LATAM markets, 43M+ records** — parallel downloads, SQL Server + API, unattended scheduling
-- 🔄 .NET 8 Worker Service automating file/photo sync to **SharePoint Online across 8 countries** — owned end-to-end, running Docker
+- 🔄 .NET 8 Worker Service automating file/photo sync to **SharePoint Online across 8 countries** — owned end-to-end, running as a Windows service (Microsoft Graph API)
 - 🔍 Contributed improvements to a production **OCR pipeline** (TF-IDF + RapidFuzz, human-in-the-loop)
 
 ---
@@ -26,6 +26,8 @@ I turn messy, manual processes into systems that run by themselves — data pipe
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Verified credentials:** 10 Google Cloud skill badges (BigQuery, BigQuery ML, Dataflow, IAM · Pub/Sub · Cloud Functions, Apigee, Looker) · AWS Cloud Essentials · Harvard CS50x → [Credly](https://www.credly.com/users/mario-torres.a8b1ff84)
 
 *Personal lab:* multi-agent systems · RAG · local LLMs · ChromaDB
 
